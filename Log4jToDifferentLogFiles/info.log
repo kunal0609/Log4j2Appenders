@@ -1,0 +1,2 @@
+DEBUG | 2020-10-27 14:34:49 | [main] example.Log4jExample (Log4jExample.java:10) - Log4jExample: A Sample Debug Message
+INFO  | 2020-10-27 14:34:49 | [main] example.Log4jExample (Log4jExample.java:11) - Log4jExample: A Sample Info  Message

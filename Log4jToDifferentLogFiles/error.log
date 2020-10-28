@@ -1,0 +1,3 @@
+WARN  | 2020-10-27 14:34:49 | [main] example.Log4jExample (Log4jExample.java:12) - Log4jExample: A Sample Warn  Message
+ERROR | 2020-10-27 14:34:49 | [main] example.Log4jExample (Log4jExample.java:13) - Log4jExample: A Sample Error Message
+FATAL | 2020-10-27 14:34:49 | [main] example.Log4jExample (Log4jExample.java:14) - Log4jExample: A Sample Fatal Message
